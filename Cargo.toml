@@ -15,7 +15,7 @@ homepage = "https://github.com/Twinklebear/arcball"
 repository = "https://github.com/Twinklebear/arcball"
 
 [dependencies]
-cgmath = "0.15.0"
+cgmath = "0.16.0"
 clippy = { version = "0.0.148", optional = true }
 
 [dev-dependencies]
